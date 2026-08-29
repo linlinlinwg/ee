@@ -1,37 +1,37 @@
 {
-  "spider": "https://cnb.cool/fish2035/xs/-/git/raw/main/spider.jar",
-  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "sites": [
+"蜘蛛""蜘蛛"，
+"壁纸"："http://127.0.0.1:9978/proxy?do=wallpaper"，
+“站点”：["站点":[
     {
-      "key": "海豚影视",
-      "name": "🐬海豚影视公告",
-      "type": 3,
-      "api": "csp_海豚影视",
-      "homePage": "https://fgblh.github.io/uhuj.github.io/海豚影视.html"
+"密钥"："海豚影视"，"钥匙"："海豚影视",
+"名称"："🐬海豚影视公告"，"姓名"："🐬海豚影视公告"，
+"类型"：3，"type": 3,
+"api"："csp_海豚影像"，"API"："csp_海豚影视",
+"hepage"："https://fgblh.github.io/uhuj.github.io/海豚影像。超文本标记语言""主页""："https://fgblh.github.io/uhuj.github.io/海豚影视.超文本标记语言"
     },
     {
-      "key": "UVOD",
-      "name": "🐬优视频.py 有🔞[成人]",
-      "type": 3,
-      "api": "https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/linlinlinwg/ee/refs/heads/main/py/优视频.py"
+"键"："uvod"，"key": "uvod",
+"名称"："🐬优视频.py有a🔞[成人]"，"姓名"："🐬优视频.py有🔞[成人]",
+"类型"：3，"type": 3,
+"api"："https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/linlinlinwg/ee/refs/heads/main/py/优视频.py""api"："https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/linlinlinwg/ee/refs/heads/main/py/优视频.py"
     },
     {
-      "key": "xyzkk",
-      "name": "🐬小鸭子看看.py 有🔞[伦理]",
-      "type": 3,
-      "api": "https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/linlinlinwg/ee/refs/heads/main/py/小鸭子看看.py"
+"键"："xyzkk"，"key": "xyzkk",
+"名称"："🐬小鸭子看看.panya🔞[伦理]"，"姓名"："🐬小鸭子看看.py有🔞[伦理]",
+"类型"：3，"type": 3,
+"https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/linlinlinwg/ee/refs/heads/main/py/小鸭子看看.py"“api”："https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/linlinlinwg/ee/refs/heads/main/py/小鸭子看看.py"
     },
     {
-      "key": "韩剧巴士",
-      "name": "🐬韩剧巴士.py｜🔞[伦理]",
-      "type": 3,
-      "api": "https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/linlinlinwg/ee/refs/heads/main/py/韩剧巴士🔞.py"
+"密钥"："韩剧巴士"，"钥匙"："韩剧巴士",
+"名称"🐬韩剧巴士。py|🔞[伦理]"，"姓名""🐬韩剧巴士.py|🔞[伦理]"，
+"类型"：3，"类型": 3,
+"api"："https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/linlinlinwg/ee/refs/heads/main/py/韩剧巴士🔞.py""api"："https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/linlinlinwg/ee/refs/heads/main/py/韩剧巴士🔞.py"
     },
     {
-      "key": "艾旦影视",
-      "name": "🐬艾旦影视.py｜🔞[伦理]",
-      "type": 3,
-      "api": "https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/linlinlinwg/ee/refs/heads/main/py/艾旦影视🔞.py"
+"密钥"："艾旦影视"，"钥匙"："艾旦影视",
+"名称"："🐬一旦影像。py|🔞[伦理]"，"姓名"："🐬一旦影像。py|🔞[伦理]"，
+"类型"：3，"type": 3,
+"api"："https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/linlinlinwg/ee/refs/heads/main/py/一旦影像🔞.py""api"："https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/linlinlinwg/ee/refs/heads/main/py/一旦影像🔞.py"
     },
     {
       "key": "aidan",
