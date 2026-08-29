@@ -1,14 +1,7 @@
 {
   "spider": "https://cnb.cool/fish2035/xs/-/git/raw/main/spider.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "sites": [
-    {
-      "key": "海豚影视",
-      "name": "🐬海豚影视公告",
-      "type": 3,
-      "api": "csp_海豚影视",
-      "homePage": "https://fgblh.github.io/uhuj.github.io/海豚影视.html"
-    },
+  "sites": [    
     {
       "key": "UVOD",
       "name": "🐬优视频.py 有🔞[成人]",
